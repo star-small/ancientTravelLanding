@@ -1,0 +1,91 @@
+
+* {
+    font-family: 'Cormorant Unicase', serif;
+}
+.carousel-inner{
+    height: 720px;
+
+}
+
+#logo{
+    margin-right: 10px;
+}
+
+nav{
+    position: fixed;
+    background-color: black;
+}
+
+#navbarNavAltMarkup {
+    float: right;
+}
+
+#event-logo{
+    margin-bottom: 15px;
+    margin-right: 10px;
+    rotate: 15deg;
+}
+
+.navbar-nav a{
+    font-size: 25px;
+    margin-right: 50px;
+
+}
+
+.content {
+    min-height: 100px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.card-body {
+    color: white;
+
+}
+
+.card-text{
+    color: white;
+}
+
+
+.calculate-menu {
+    height: auto;
+    background-color: rgb(10, 10, 10);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ticken-price {
+    margin-left: 50px;
+}
+
+.ticken-price p {
+    color: white;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+input {
+    display: inline-block;
+}
+
+.check {
+    margin-right: 100px;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+
+#btn-calc {
+    margin-left: 50px;
+}
+
+.card-text{
+    color: black;
+}
+
+#dev {
+display: block;
+margin: 0 auto;
+
+}
